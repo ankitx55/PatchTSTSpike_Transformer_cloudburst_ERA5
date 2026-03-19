@@ -1,0 +1,9 @@
+date_IST,time_IST,event_tag,place,state_district,latitude,longitude,coord_tag,source,ERA5_spike_match_D±1,matched_dates,ERA5_spike_match_exact_D
+2021-07-27,20:00,Cloudburst/Flash flood,"Near Tozing Nallah, Lahaul & Spiti",Himachal Pradesh (Lahaul & Spiti),32.5,77.6,Approx (district proxy: Keylong),NDM India (uid=D323),N,,N
+2021-07-28,13:00,Cloudburst,"Aloosa, Bandipora",Jammu & Kashmir (Bandipora),34.4234,74.5449,Approx (village coords),NDM India (uid=D323),N,,N
+2021-07-28,17:30,Cloudburst,Shri Amarnath Ji (Holy cave area),Jammu & Kashmir (Ganderbal/Anantnag boundary),34.2156,75.5038,Approx (cave coords),NDM India (uid=D323),N,,N
+2023-08-14,10:30,Cloudburst,"Jadon village, Kandaghat (Solan)",Himachal Pradesh (Solan),30.9659,77.1074,Approx (nearest: Kandaghat),Sphere India SitRep (14 Aug 2023),N,,N
+2024-08-01,04:47,Cloudburst,"Near hydropower project, Jhakri (Rampur)",Himachal Pradesh (Shimla),32.046,78.1614,Approx (Jhakri),NDM India (uid=NEW2158),Y,2024-08-01,Y
+2024-08-01,02:28,Cloudburst,"Near Tikkan Thalukot, Padhar tehsil",Himachal Pradesh (Mandi),32.0923,76.3389,Approx (nearest: Padhar),NDM India (uid=NEW2158),Y,2024-08-01,Y
+2024-08-01,01:38,Cloudburst,"Near Jaon, Nirmand tehsil",Himachal Pradesh (Kullu),31.4581,77.6439,Approx (Jaon),NDM India (uid=NEW2158),Y,2024-08-01,Y
+2024-08-01,05:42,Flash flood (grouped with cloudbursts),"Near Malana, Jari sub-tehsil",Himachal Pradesh (Kullu),31.9934,77.4641,Approx (Malana),NDM India (uid=NEW2158),Y,2024-08-01,Y
